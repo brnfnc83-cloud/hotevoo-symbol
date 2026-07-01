@@ -1,5 +1,13 @@
 # HOTEVOO Symbol
 
+<p align="center">
+  <img src="assets/hotevoo-symbol.png" alt="Official HOTEVOO Symbol" width="180">
+</p>
+
+<p align="center">
+The official HOTEVOO Symbol
+</p>
+
 The HOTEVOO Symbol is a green infinity-shaped mark used in a real-world discovery experiment.
 
 Unlike traditional branding, the sticker intentionally contains:
@@ -22,6 +30,12 @@ If you discovered a green or turquoise infinity-shaped sticker with no text, you
 Learn more:
 
 https://www.hotevoo.com/what-is-this-sticker
+
+### Real-world appearance
+
+This is how the official HOTEVOO Symbol appears in public.
+
+![HOTEVOO Sticker](assets/hotevoo-sticker-real-world.jpg)
 
 ---
 
