@@ -62,6 +62,18 @@ https://www.hotevoo.com/press/symbol
 
 ---
 
+## Official assets
+
+The official HOTEVOO Symbol assets are available in this repository:
+
+- PNG: [`assets/hotevoo-symbol.png`](assets/hotevoo-symbol.png)
+- SVG: [`assets/hotevoo-symbol.svg`](assets/hotevoo-symbol.svg)
+- Real-world sticker photo: [`assets/hotevoo-sticker-real-world.jpg`](assets/hotevoo-sticker-real-world.jpg)
+
+The real-world sticker photo shows how the symbol appears outside the website, as part of the physical discovery experiment.
+
+---
+
 ## About HOTEVOO
 
 HOTEVOO is a hotel price-matching platform.
